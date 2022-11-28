@@ -4,10 +4,6 @@
     <img src="./Images/cover.PNG" width="600px" height="450px">
 </p>
 
-## 🚩 Full explanation of the CLI Application in my blog
-
-<a href="https://jasblogs.hashnode.dev/build-a-nodejs-password-generator"><img src="./Images/blog.png" height="100px" width="100px"></a>
-
 ## Technolgies used :
 
 <p>
